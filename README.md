@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank">
