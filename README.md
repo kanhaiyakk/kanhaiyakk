@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, Microservices, MySQL, RESTful API**
 
 - 📫 How to reach me **kanhaiya.kk20598@gmail.com**
 
@@ -17,12 +17,6 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> 
@@ -35,8 +29,27 @@
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
   </a> 
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20572146?s=200&v=4" alt="Mockito" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  </a> 
+  <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1180107325635223552/LU-cNuhX_400x400.jpg" alt="Spring Tool Suite" width="40" height="40"/>
+  </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Microservices" width="40" height="40"/>
+  </a>
 </p>
+
 
