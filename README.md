@@ -41,15 +41,18 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a> 
-  <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1180107325635223552/LU-cNuhX_400x400.jpg" alt="Spring Tool Suite" width="40" height="40"/>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Microservices" width="40" height="40"/>
   </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a> 
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Microservices" width="40" height="40"/>
-  </a>
 </p>
 
 
