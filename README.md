@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 
 
@@ -8,9 +8,9 @@
 </a>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, Docker, AWS**
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, MySQL, RESTful API**
+- 💬 Ask me about **Java, Spring Boot, Microservices, MySQL, RESTful API, Docker, AWS**
 
 - 📫 How to reach me **kanhaiya.kk20598@gmail.com**
 
@@ -28,12 +28,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
+     <a href="https://www.w3.org/sql/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlfile/sqlfile-icon.svg" alt="SQL" width="40" height="40"/>
+  </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
+   
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   </a> 
