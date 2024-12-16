@@ -24,8 +24,9 @@
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/kanhaiya20598/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" alt="kanhaiya-kumar-geeksforgeeks" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="kanhaiya-kumar-geeksforgeeks" height="30" width="40" />
 </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
