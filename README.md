@@ -19,6 +19,14 @@
 <a href="https://www.linkedin.com/in/kanhaiya-kumar-213b801a2/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhaiya-kumar-linkedin" height="30" width="40" />
 </a>
+<a href="https://leetcode.com/u/kanhaiya20598/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="kanhaiya-kumar-leetcode" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/kanhaiya20598/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" alt="kanhaiya-kumar-geeksforgeeks" height="30" width="40" />
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
