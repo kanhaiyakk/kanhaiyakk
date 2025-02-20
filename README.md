@@ -23,7 +23,7 @@
   <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="kanhaiya-kumar-leetcode" height="30" width="40" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/kanhaiya20598/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/kanh20598/?ref=header_profile" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="kanhaiya-kumar-geeksforgeeks" height="30" width="40" />
 </a>
 
