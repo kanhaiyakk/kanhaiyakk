@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.iconscout.com/illustration/premium/thumb/young-male-developers-doing-coding-10745022-8649854.png)](https://iconscout.com/illustration/young-male-developers-doing-coding-10745022_8649854)
 
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
