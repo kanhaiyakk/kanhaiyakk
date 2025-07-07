@@ -9,7 +9,7 @@
 </a>
 
 
-- 🌱 I’m currently learning **Spring Boot, Docker, AWS**
+- 🌱 I’m currently learning ** Docker, AWS**
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, MySQL, RESTful API, Docker, AWS**
 
