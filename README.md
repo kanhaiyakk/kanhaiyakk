@@ -77,6 +77,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a> 
 </p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark" alt="kanhaiyakk-github-stats"/>
+</p>
 
 <h3 align="left">GitHub Contribution Snake Animation:</h3>
 
