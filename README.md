@@ -86,3 +86,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark" alt="kanhaiyakk-github-stats"/>
 </p>
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark&count_private=true" alt="kanhaiyakk-github-stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kanhaiyakk&theme=github" alt="kanhaiyakk-activity-graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kanhaiyakk/kanhaiyakk/blob/output/github-contribution-grid-snake.svg" alt="kanhaiyakk-snake-animation"/>
+</p>
