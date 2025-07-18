@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/kanhaiyakk/kanhaiyakk/blob/main/Cover%20Photo.png" alt="cover" style="width:100%;"/>
+  <img src="https://github.com/kanhaiyakk/kanhaiyakk/blob/main/Kanhaiya%20Kumar%20Cover%20Pic.png" alt="cover" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
