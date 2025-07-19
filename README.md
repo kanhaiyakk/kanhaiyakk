@@ -60,14 +60,26 @@
 
 
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
-</p>
+## 📊 Advanced GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark" alt="kanhaiyakk-github-stats"/>
-</p>
+<div align="center">
+
+### 🎯 **Performance Dashboard**
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanhaiyakk&theme=github_dark" width="100%"/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
+
+<!-- GitHub General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark" alt="kanhaiyakk-github-stats"/>
+
+</div>
+
+
+
+
 
 <h3 align="left">GitHub Contribution Snake Animation:</h3>
 
