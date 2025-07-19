@@ -75,3 +75,33 @@
   <img src="https://github.com/kanhaiyakk/kanhaiyakk/blob/output/github-contribution-grid-snake.svg" alt="github-contribution-snake">
 </p>
 
+
+
+
+
+
+## 💻 Competitive Programming Journey
+
+<div align="center">
+
+<!-- Buttons side by side -->
+<a href="https://leetcode.com/u/kanhaiya20598/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/kanh20598/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!-- LeetCode Stats -->
+<img src="https://leetcard.jacoblin.cool/kanhaiya20598?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+
+<!-- GFG Stats -->
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=kanh20598&theme=dark" alt="GFG Stats" />
+
+</div>
