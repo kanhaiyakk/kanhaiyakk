@@ -17,16 +17,27 @@
 
 - 📫 How to reach me **kanhaiya.kk20598@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👥 Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kanhaiya-kumar-213b801a2/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhaiya-kumar-linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
+  <a href="mailto:kanhaiya.kk20598@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
+  </a>
+<!--   <span style="margin-left:10px;">kanhaiya.kk20598@gmail.com</span> -->
+</p>
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="left">
   <a href="https://leetcode.com/u/kanhaiya20598/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="kanhaiya-kumar-leetcode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" height="50" width="50" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/kanh20598/?ref=header_profile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="kanhaiya-kumar-geeksforgeeks" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="50" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kanhaiya_kk20598" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" alt="HackerRank" height="50" width="50" />
   </a>
 </p>
 
