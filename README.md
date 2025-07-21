@@ -22,10 +22,7 @@
   <a href="https://www.linkedin.com/in/kanhaiya-kumar-213b801a2/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="mailto:kanhaiya.kk20598@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
-  </a>
-<!--   <span style="margin-left:10px;">kanhaiya.kk20598@gmail.com</span> -->
+ 
 </p>
 
 <h3 align="left">💻 Coding Profiles:</h3>
