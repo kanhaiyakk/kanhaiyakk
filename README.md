@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h2 align="center">A passionate Java Developer from India</h2>
+
+## 💼 Professional Summary
+
+**Java Developer** with experience in building high-performance REST APIs using Spring Boot and Microservices. Skilled in writing clean, maintainable code, and implementing robust backend systems. Strong understanding of Data Structures and Algorithms with a focus on optimized solutions. Currently learning AWS for cloud deployments.
+
 
 <p align="center">
   <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank">
