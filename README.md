@@ -83,7 +83,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanhaiyakk&theme=github_dark" width="100%"/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
+<img src="https://streak-stats.demolab.com/?user=kanhaiyakk&theme=dark" alt="kanhaiyakk-streak-stats"/>
+
+
 
 <!-- GitHub General Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=kanhaiyakk&show_icons=true&theme=dark" alt="kanhaiyakk-github-stats"/>
