@@ -7,7 +7,7 @@
 
 ## 💼 Professional Summary
 
-**Java Developer** with experience in building high-performance REST APIs using Spring Boot and Microservices. Skilled in writing clean, maintainable code, and implementing robust backend systems. Strong understanding of Data Structures and Algorithms with a focus on optimized solutions. Currently learning AWS for cloud deployments.
+**Backend Developer** experienced in building scalable and high-performance applications using Java 21, Spring Boot, and RESTful APIs. Proficient in both monolithic (Hexagonal Architecture) and microservices architectures, with expertise in bug fixing, performance optimization, and clean code practices. Strong background in Data Structures and Algorithms with 500+ problems solved, enabling efficient and optimized solutions. Skilled in leveraging tools like JUnit, Mockito, Docker, Git, AWS, and PostgreSQL/MySQL to deliver reliable and production-ready applications. Adept at collaborating in Agile environments with cross-functional teams across banking and product-based domains.
 
 
 <p align="center">
