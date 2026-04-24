@@ -7,7 +7,15 @@
 
 ## 💼 Professional Summary
 
-**Backend Developer** experienced in building scalable and high-performance applications using Java 21, Spring Boot, and RESTful APIs. Proficient in both monolithic (Hexagonal Architecture) and microservices architectures, with expertise in bug fixing, performance optimization, and clean code practices. Strong background in Data Structures and Algorithms with 500+ problems solved, enabling efficient and optimized solutions. Skilled in leveraging tools like JUnit, Mockito, Docker, Git, AWS, and PostgreSQL/MySQL to deliver reliable and production-ready applications. Adept at collaborating in Agile environments with cross-functional teams across banking and product-based domains.
+Backend Developer specializing in building **scalable and intelligent backend systems** using **Java 21, Spring Boot, and RESTful APIs**. Experienced in designing **monolithic systems using Hexagonal Architecture** and **microservices-based applications**, with strong focus on **clean architecture, performance optimization, and maintainable code**. 
+
+Architected **AI-powered recruitment automation features** including **CV parsing, candidate fitness scoring, and semantic job classification** using **Google Gemini LLM, embeddings, and PostgreSQL pgvector similarity search**. 
+
+Experienced in developing **LLM-integrated backend services** with **resilient error handling, asynchronous processing, and schema-driven validation**. 
+
+Proficient in **MySQL, PostgreSQL, Gradle, JUnit, Mockito, Git, GitHub, Jira, Sentry, Docker, AWS, and Swagger API documentation**. 
+
+Strong foundation in **Data Structures & Algorithms (500+ problems solved on LeetCode and GeeksforGeeks)** and experienced in delivering **scalable solutions across banking and product development domains in Agile teams**.
 
 
 <p align="center">
@@ -76,6 +84,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java%208%20Features-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-FF6F00?style=for-the-badge&logo=architecture&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Design-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 
