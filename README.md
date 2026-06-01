@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
-<h2 align="center">Passionate Java Backend Developer from India</h2>
+<h2 align="center">Passionate Java Backend Developer specializing in Spring Boot, Microservices, AI-Powered Backend Systems</h2>
 
 ## 💼 Professional Summary
 
